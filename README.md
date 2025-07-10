@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maria Emil!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-End+Developer & UI UX Designer;React+%26+TypeScript+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front+End+Developer+&+UI+UX+Designer;React+%26+TypeScript+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
