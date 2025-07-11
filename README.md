@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves creating beautiful, functional web applications. I enjoy turning ideas into reality through code and am always excited to learn new technologies and tackle challenging problems.
+I'm a passionate Front-End Developer who loves creating beautiful, functional web applications. I enjoy turning ideas into reality through code and am always excited to learn new technologies and tackle challenging problems.
 
 - 🔭 I'm currently working on **Portfolio Projects** and **React Applications**
 - 🌱 I'm currently learning **Advanced React Patterns** and **Cloud Technologies**
 - 💬 Ask me about **React, TypeScript, JavaScript, and Web Development**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[@mariaemil4t2@gmail.com]**
 - ⚡ Fun fact: **I love solving problems and creating smooth user experiences**
 
 ## 🛠️ Tech Stack
