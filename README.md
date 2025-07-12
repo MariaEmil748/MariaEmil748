@@ -52,11 +52,6 @@ I'm a passionate front-end developer who loves creating beautiful, functional we
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEmil748&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 🌟 What I'm Working On
 
